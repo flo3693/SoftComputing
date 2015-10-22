@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1429631338 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\inputlayer.cpp
+	"InputLayer.h"
+
+1429631338 c:\users\florian\documents\codeblocks\softcomputing\perceptron\inputlayer.h
+	"InputNeuron.h"
+
+1428500850 c:\users\florian\documents\codeblocks\softcomputing\perceptron\inputneuron.h
+
+1428499689 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\inputneuron.cpp
+	"InputNeuron.h"
+	<stdlib.h>
+	<string>
+
+1429782740 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\main.cpp
+	<iostream>
+	"Perceptron.h"
+
+1429738203 c:\users\florian\documents\codeblocks\softcomputing\perceptron\hiddenneuron.h
+
+1429738613 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\hiddenneuron.cpp
+	"HiddenNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429782770 c:\users\florian\documents\codeblocks\softcomputing\perceptron\hiddenlayer.h
+	"HiddenNeuron.h"
+	"InputLayer.h"
+
+1429738224 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\hiddenlayer.cpp
+	"HiddenLayer.h"
+
+1429738358 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\outputneuron.cpp
+	"OutputNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429738294 c:\users\florian\documents\codeblocks\softcomputing\perceptron\outputneuron.h
+
+1429738303 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\outputlayer.cpp
+	"OutputLayer.h"
+
+1429782740 c:\users\florian\documents\codeblocks\softcomputing\perceptron\outputlayer.h
+	"HiddenLayer.h"
+	"InputLayer.h"
+	"OutputNeuron.h"
+
+1429786865 source:c:\users\florian\documents\codeblocks\softcomputing\perceptron\perceptron.cpp
+	"Perceptron.h"
+
+1429782713 c:\users\florian\documents\codeblocks\softcomputing\perceptron\perceptron.h
+	"OutputLayer.h"
+	"HiddenLayer.h"
+	"InputLayer.h"
+	<math.h>
+
+1429790861 source:c:\users\florian\desktop\perceptron\hiddenlayer.cpp
+	"HiddenLayer.h"
+
+1429790861 c:\users\florian\desktop\perceptron\hiddenlayer.h
+	"HiddenNeuron.h"
+	"InputLayer.h"
+
+1429790861 c:\users\florian\desktop\perceptron\hiddenneuron.h
+
+1429790861 c:\users\florian\desktop\perceptron\inputlayer.h
+	"InputNeuron.h"
+
+1428500850 c:\users\florian\desktop\perceptron\inputneuron.h
+
+1429790861 source:c:\users\florian\desktop\perceptron\inputlayer.cpp
+	"InputLayer.h"
+
+1428499689 source:c:\users\florian\desktop\perceptron\inputneuron.cpp
+	"InputNeuron.h"
+	<stdlib.h>
+	<string>
+
+1429873018 source:c:\users\florian\desktop\perceptron\main.cpp
+	<iostream>
+	"Perceptron.h"
+
+1429790927 c:\users\florian\desktop\perceptron\perceptron.h
+	"OutputLayer.h"
+	"HiddenLayer.h"
+	"InputLayer.h"
+	<math.h>
+
+1429782740 c:\users\florian\desktop\perceptron\outputlayer.h
+	"HiddenLayer.h"
+	"InputLayer.h"
+	"OutputNeuron.h"
+
+1429788913 c:\users\florian\desktop\perceptron\outputneuron.h
+
+1429738303 source:c:\users\florian\desktop\perceptron\outputlayer.cpp
+	"OutputLayer.h"
+
+1429806653 source:c:\users\florian\desktop\perceptron\perceptron.cpp
+	"Perceptron.h"
+
+1429873206 source:c:\users\florian\desktop\perceptron\hiddenneuron.cpp
+	"HiddenNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429873206 source:c:\users\florian\desktop\perceptron\outputneuron.cpp
+	"OutputNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429790861 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\hiddenlayer.cpp
+	"HiddenLayer.h"
+
+1429790861 c:\users\florian\desktop\cours pologne\soft computing\perceptron\hiddenlayer.h
+	"HiddenNeuron.h"
+	"InputLayer.h"
+
+1429790861 c:\users\florian\desktop\cours pologne\soft computing\perceptron\hiddenneuron.h
+
+1429790861 c:\users\florian\desktop\cours pologne\soft computing\perceptron\inputlayer.h
+	"InputNeuron.h"
+
+1428500850 c:\users\florian\desktop\cours pologne\soft computing\perceptron\inputneuron.h
+
+1429873206 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\hiddenneuron.cpp
+	"HiddenNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429790861 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\inputlayer.cpp
+	"InputLayer.h"
+
+1428499689 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\inputneuron.cpp
+	"InputNeuron.h"
+	<stdlib.h>
+	<string>
+
+1429873018 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\main.cpp
+	<iostream>
+	"Perceptron.h"
+
+1429790927 c:\users\florian\desktop\cours pologne\soft computing\perceptron\perceptron.h
+	"OutputLayer.h"
+	"HiddenLayer.h"
+	"InputLayer.h"
+	<math.h>
+
+1429782740 c:\users\florian\desktop\cours pologne\soft computing\perceptron\outputlayer.h
+	"HiddenLayer.h"
+	"InputLayer.h"
+	"OutputNeuron.h"
+
+1429788913 c:\users\florian\desktop\cours pologne\soft computing\perceptron\outputneuron.h
+
+1429738303 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\outputlayer.cpp
+	"OutputLayer.h"
+
+1429873206 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\outputneuron.cpp
+	"OutputNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429806653 source:c:\users\florian\desktop\cours pologne\soft computing\perceptron\perceptron.cpp
+	"Perceptron.h"
+
+1429790861 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\hiddenlayer.cpp
+	"HiddenLayer.h"
+
+1429790861 c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\hiddenlayer.h
+	"HiddenNeuron.h"
+	"InputLayer.h"
+
+1429790861 c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\hiddenneuron.h
+
+1429790861 c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\inputlayer.h
+	"InputNeuron.h"
+
+1428500850 c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\inputneuron.h
+
+1429873206 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\hiddenneuron.cpp
+	"HiddenNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429790861 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\inputlayer.cpp
+	"InputLayer.h"
+
+1428499689 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\inputneuron.cpp
+	"InputNeuron.h"
+	<stdlib.h>
+	<string>
+
+1429873018 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\main.cpp
+	<iostream>
+	"Perceptron.h"
+
+1429790927 c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\perceptron.h
+	"OutputLayer.h"
+	"HiddenLayer.h"
+	"InputLayer.h"
+	<math.h>
+
+1429782740 c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\outputlayer.h
+	"HiddenLayer.h"
+	"InputLayer.h"
+	"OutputNeuron.h"
+
+1429788913 c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\outputneuron.h
+
+1429738303 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\outputlayer.cpp
+	"OutputLayer.h"
+
+1429873206 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\outputneuron.cpp
+	"OutputNeuron.h"
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<math.h>
+
+1429806653 source:c:\users\florian\desktop\cours pologne\soft computing\task1\perceptron\perceptron.cpp
+	"Perceptron.h"
+
